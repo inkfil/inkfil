@@ -1,19 +1,24 @@
+## Taken Repositories Names
+
+	aligatorGAR: Website in C++ using Crow Framework.
+	stingRAY: Algorithms and DataStructures.
+	piranha: an EDA tool in django.
+	lamprey: Basic Data Science libraries tuts.
+---
+
 ## Future Repositories Names
 
+	Arapaima
+	Eel (Electric Eel, Longfin Eel)
+	Sawfish
+	Goonch
+	Lungfish
+	Vundu
+	Sturgeon
+	Salamander
+	Payara
 ---
-* StingRAY
-* Arapaima
-* Eel (Electric Eel, Longfin Eel, )
-* Sawfish
-* Tigerfish
-* Goonch
-* Lungfish
-* Vundu
-* Piranha
-* Sturgeon
-* Salamander
-* Payara
----
+
 ## Projects to kill time (most probably I will never complete them)
 
 ###### This is a list of side projects ideas some are from internet and some are orignal ideas
