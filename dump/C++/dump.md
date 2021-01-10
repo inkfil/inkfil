@@ -131,3 +131,153 @@ int main(int argc, char** argv){
 
 ---
 
+
+```C++
+// Unfinished
+// Linear Algebra:
+// 	scalar operations
+// 	vector operations
+// 	matrix operations
+
+#include<iostream>
+#include<vector>
+
+//Matrix Class
+class Matrix{
+	public:
+		Matrix(): m_row(3), m_col(3), m_data(m_row * m_col)
+		Matrix(size_t row, size_t col): m_row(row), m_col(col), m_data(m_row * m_col){}
+		size_t getRow() const {return m_row;}
+		size_t getCol() const {return m_col;}
+		double& operator()(size_t i, size_t j){return m_data[i*m_col+j];}
+		const double& operator()(size_t i, size_t j) const {return m_data[i*m_col+j];}
+		
+	private:
+		size_t m_row, m_col;
+		std::vector<double> m_data;
+};
+
+//Vector class
+class Vector_c{
+	public:
+		Vector_c(): m_row(3){}
+		Vector_c(size_t row): m_row(row), m_data(m_row){}
+		size_t getRow() const {return m_row;}
+		double& operator()(size_t i){return m_data[i];}
+		const double& operator()(size_t i) const {return m_data[i];}
+		
+	private:
+		size_t m_row;
+		std::vector<double> m_data;
+}
+
+void matMul(const Matrix& mata, const Matrix& matb, Matrix& resmat){
+
+}
+
+void LUFactorization(Matrix& A){
+	size_t m=A.getRowNum(), n=A.getColNum();
+	for(size_t k=0; k<m-1; ++k){
+		for(size_t i=k+1; i<m; ++i){
+			double z=A(i, k)/A(k, k);
+			A(i, k)=z;
+			for(size_t j=k+1; j<n; ++j){
+				A(i, j) -= z*A(k, j);
+			}
+		}
+	}
+
+
+}
+
+int main(){
+
+	return 0;
+}
+```
+
+
+```C++
+// Unfinished
+// Number Theory
+
+#include<iostream>
+#include<vector>
+#include<climits>
+#include<cmath>
+
+///////////////////////////////////////////////
+// NUMBER THOERY
+///////////////////////////////////////////////
+
+// is odd
+// all odd
+// is even
+// all even
+// is prime
+// all prime
+// is composite
+// is coprime
+// is perfect number
+// gcd (Euler's algorithm, Euler's extended formula)
+// lcm
+// factorial (with and without recursion)
+// calculating pi (liebniz method, ...)
+// chinese remainder theorem
+// combination (n C r)
+// permutation (n P r)
+// pythagoras theorem
+// pythagorean triplet
+// 
+// sieve of eratosthenes
+
+///////////////////////////////////////////////
+// GEOMETRY
+///////////////////////////////////////////////
+/*
+	1D objects:
+		arc length of circle
+		length of a line (length of sides of polygons and polyhedrons)
+		radius/diameter of circle
+	2D objects:
+		triangle
+		square
+		rectangle
+		circle
+		rhombus
+		trapezium/trapezoid
+		parallelogram
+		
+	3D objects:
+		n sided pyramid
+		cone
+		cube
+		cuboid
+		cylinder
+		sphere
+		rhombohedron
+		3D-trapezoid
+	Types of triangles:
+		equilateral triangles
+		isoscales triangle
+		scalene triangles
+		right angled triangles
+		obtuse angled triangles
+		accute angled triangles
+*/
+// Areas (2D and 3D shapes)
+// Volumes (3D shapes)
+// Perimeters (2D and 3D shapes)
+// Line (distance [co-ordinate diatance, polar distance, parametrix distance])
+// Conics (parabola, hyperbola, ellipse, circle)
+
+///////////////////////////////////////////////
+// Analytical Geometry
+///////////////////////////////////////////////
+
+int main(){
+
+	return 0;
+}
+```
+
