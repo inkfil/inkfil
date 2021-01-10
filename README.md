@@ -2,6 +2,7 @@
 	<a href="https://github.com/inkfil"><img src="https://img.shields.io/github/followers/inkfil.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/RonakIsDead"><img src="https://img.shields.io/twitter/follow/RonakIsDead?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/RonakTheShinigami"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://www.instagram.com/RonakTheShinigami"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram" alt="Instagram"></a>
 	<!-- the above snippet was taken by -->
 </p>
 
