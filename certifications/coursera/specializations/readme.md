@@ -1,1 +1,1 @@
-## All My COursera Specializations
+## All My Coursera Specializations
