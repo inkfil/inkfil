@@ -1,6 +1,6 @@
 ## Taken Repositories Names
 
-	aligatorGAR: Website in C++ using Crow Framework.
+	aligatorGAR: C++ web application served by Crow Framework.
 	stingRAY: Algorithms and DataStructures.
 	piranha: an EDA tool in django.
 	lamprey: Basic Data Science libraries tuts.
