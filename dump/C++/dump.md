@@ -1,6 +1,20 @@
 ## C++ dump
 
 ---
+C++ Tools:
+
+	gcc(g++):
+	gdb:
+	gsl:
+	valgrind:
+	gpof:
+	objdump:
+	readelf:
+	
+
+---
+
+---
 ```C++
 // PythagoreanTriplet.cpp
 // g++ PythagoreanTriplet.cpp -o pythagoreantriplet -Wall -Werror -Wpendantic -Wall 
