@@ -1,8 +1,8 @@
 <p align="center">
-	<a href="https://github.com/inkfil"><img src="https://img.shields.io/github/followers/inkfil.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/RonakIsDead"><img src="https://img.shields.io/twitter/follow/RonakIsDead?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/RonakTheShinigami"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://www.instagram.com/RonakTheShinigami"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram" alt="Instagram"></a>
+	<a href="https://github.com/inkfil"><img src="https://img.shields.io/github/followers/inkfil.svg?label=GitHub&style=social" alt="GitHub" target="_blank"></a>
+	<a href="https://twitter.com/RonakIsDead"><img src="https://img.shields.io/twitter/follow/RonakIsDead?label=Twitter&style=social" alt="Twitter" target="_blank"></a>
+	<a href="https://www.linkedin.com/in/RonakTheShinigami"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" target="_blank"></a>
+	<a href="https://www.instagram.com/RonakTheShinigami"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram" alt="Instagram" target="_blank"></a>
 	<!-- the above snippet was taken by -->
 </p>
 
