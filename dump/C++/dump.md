@@ -1,7 +1,7 @@
 ## C++ dump
 
 ---
-```
+```C++
 // PythagoreanTriplet.cpp
 // g++ PythagoreanTriplet.cpp -o pythagoreantriplet -Wall -Werror -Wpendantic -Wall 
 // objdump
