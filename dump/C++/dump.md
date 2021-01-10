@@ -3,13 +3,22 @@
 ---
 ## C++ Tools:
 
-	gcc(g++):
-	gdb:
-	gsl:
-	valgrind:
-	gpof:
-	objdump:
-	readelf:
+	gcc(g++)	: Compiler.
+	clang		: Compiler.
+	gdb		: Debugger.
+	valgrind	: Memory Debugger.
+	gpof		: C++ Profiling Tool.
+	objdump		: 
+	readelf		: 
+	Vim		: God of all Editor.
+
+---
+
+## C++ Libs/APIs
+###### SH: Single Header Library.
+	
+	gsl		: GNU Scientific Library.
+	CImg (SH)	: C/C++ Imaging Library.
 	
 
 ---
