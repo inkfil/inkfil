@@ -203,3 +203,107 @@ API for Audio/Video
 		  "duration_sec": "10",
 	}
 
+
+
+## The New York School of Synthesis (Friedman)
+
+Music Synthesis: Controlling and Manipulating Vibrations. </br>
+Synthesis: Sound Designing.
+
+All Sounds are made up of Vibrations. </br>
+Cycle: Unit of vibrations. </br>
+Frequency: speed of vibrations. </br>
+Hertz: cycle per second. </br>
+Kilo Hertz: 1,000 cycles per seconds. </br>
+Audible frequency range for humans: 20Hz to 20KHz. </br>
+Fact: 
+	dogs can hear frequency that are larger than 20KHz.
+	Elephants can hear frequencies that are smaller than 20Hz.
+
+---
+#### 3 Elements of Sound:
+
+	Pitch.
+	Timbre.
+	Volume.
+
+###### Pitch: 
+
+	is nothing but musical term for Frequency.
+	anything that vibrates at a rate of 440Hz per second has a pitch "a"
+	higher the frequency, higher the pitch of a sound, 
+	and lower the frequency, lower the pitch of a sound.
+	So basically Pitch refers to the fundamental frequency of sound.
+
+###### Timbre:
+
+	determines the color of the sound
+	i.e. determines the unique character of the Sound.
+	timbre has something to do with the harmonic structure of the sound.
+	To understand Timbre we must first understand harmonics.
+	if a sound has more upper harmonics, it is bright in timbre, 
+	and if a sound has less upper harmonics (or more lower harmonics), it is dark dark/dull in timbre.
+	in most synths, timbre is controlled and manipulated using filters (eg. cutoff filter).
+	so basically Timbre refers to the harmonics (multiple of fundamental frequency) of sound.
+
+###### Volume:
+
+	Volume usually refers to the Amplitude of the Wave.
+	volume deals with the shape of the sound.
+	some sounds starts suddenly and die gradually |\
+	some sound starts gradually and dies gradually /-\
+	
+Any sound can be modelled using these three elements of sound(Pitch, Timbre and Volume). </br>
+How to differentiate sounds?
+	Using three Elements of Sound.
+we can control pitch/frequency by frequency control of oscillator. </br>
+we can control timbre by filter control or modulator. </br>
+we can control volume/amplitude by volume envolope. </br>
+
+###### Harmonics:
+
+	sounds are made of various variations of frequencies.
+	aka Overtones/Fundamentals.
+	pitched instruments have a very orderly, predictable harmonic spectrum (natural spectrum series).
+	for non pitched instruments, it is very difficult to determine the fundamental pitch because of their irregular harmonics.
+
+---
+#### 5 most common Waveforms:
+	Square.
+	SawTooth.
+	Triangle.
+	Pulse.
+	Sine.
+waveforms provides source material/structure to a sound
+
+###### Square Wave:
+
+	instant ON for 1/2 cycle and instant OFF for 1/2 cycle
+	instant ON/OFF
+	no gradual grow/decay
+
+###### SawTooth Wave:
+
+	aka ramp wave
+	instant ON and gradually OFF
+	instant grow
+	gradual decay
+
+###### Triangle Wave:
+	
+	
+---
+#### 7 Components of Synth:
+
+	Amplifier.
+	Oscillators.
+	Filters.
+	Volume Envolope.
+	Filter Envolope.
+	Pitch Envolope.
+	LFO (Low Frequency Oscillator).
+
+
+
+
+
