@@ -33,3 +33,8 @@ set output "output.svg"
 set term eps
 set output "output.eps"
 ```
+
+
+
+references:
+[gnuplot reference duke.edu](https://people.duke.edu/~hpgavin/gnuplot.html)
