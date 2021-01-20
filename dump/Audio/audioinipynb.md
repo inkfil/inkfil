@@ -4,7 +4,7 @@ reference: [illinois.edu](https://publish.illinois.edu/augmentedlistening/tutori
 import numpy as np
 from numpy.fft import fft, ifft
 import matlpotlib.pyplot as plt
-import scipy.io.wave import read, write
+import scipy.io.wavfile import read, write
 from IPython.display import Audio
 
 fs, data=read("sample.wav")
