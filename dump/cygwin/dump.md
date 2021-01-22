@@ -3,6 +3,11 @@ To add apt-cyg
 lynx -source rawgit.com/transcode-open/apt-cyg/master/apt-cyg > /bin/apt-cyg
 chmod +x /bin/apt-cyg
 ```
+
+Link to the Windows Users
+Type ```bash mkpasswd -l > /etc/passwd``` and ```bash mkgroup -l > /etc/group``` to get all of the local users and group synced up. Otherwise, replace the -l with a -d to get all users and groups from the domain.
+
+
 ```bash
 #!/bin/bash
 # apt-cyg: install tool for Cygwin similar to debian apt-get
