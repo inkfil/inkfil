@@ -34,7 +34,14 @@ set term eps
 set output "output.eps"
 ```
 
+wrirting gnuplot scripts
 
+```gnuplot
+# gnuplot_script_sample.gp
+set terminal svg size 2048 1024 dynamic
+set output "out.svg"
+plot "data.txt" with lines
+```
 
 references:
 [gnuplot reference duke.edu](https://people.duke.edu/~hpgavin/gnuplot.html)
