@@ -1,7 +1,8 @@
 # OpenGL
 
-references:
-[Song Ho's Website](http://www.songho.ca/opengl/)
+references: </br>
+[Song Ho's Website](http://www.songho.ca/opengl/) </br>
+[GL Boilerplate code understanding](http://viclw17.github.io/2019/05/10/opengl-project-setup-and-boilerplate-code/)
 
 
 how to install OpenGL: no need it is an api that is available to hardware natively
