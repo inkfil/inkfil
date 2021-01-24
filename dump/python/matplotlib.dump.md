@@ -58,3 +58,51 @@ plt.staclplot(x,[y1,y2,...,yn],colors=['y1color','y2color',...,'yncolor'])
 plt.pie(x,[y1,y2,...,yn],colors=['y1color','y2color',...,'yncolor'],startangle=,shadow=True,explode=(0,0.1,0...),autopct='%1.1f%%')
 plt.
 ```
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+
+a=[0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180]
+b=[180, 195, 210, 225, 240, 255, 270, 285, 300, 315, 330, 345, 360]
+
+#plot 1
+plt.plot(np.sin(a+b), label='sin(a+b)')
+plt.plot((np.sin(a)*np.cos(b))+(np.cos(a)*np.sin(b)))
+
+#plot 2
+plt.plot(np.sin(a-b), label='sin(a-b)')
+plt.plot((np.sin(a)*np.cos(b))-(np.cos(a)*np.sin(b)))
+
+#plot 3
+plt.plot(np.cos(a+b), label='cos(a+b)')
+plt.plot((np.cos(a)*np.cos(b))-(np.sin(a)*np.sin(b)))
+
+#plot 4
+plt.plot(np.cos(a-b), label='cos(a-b)')
+plt.plot((np.cos(a)*np.cos(b))+(np.sin(a)*np.sin(b)))
+
+#plot 5
+plt.plot(np.tan(a+b), label='tan(a+b)')
+plt.plot((np.tan(a)+np.tan(b))/(1-(tan(a)*np.tan(b))))
+
+#plot 6
+plt.plot(np.tan(a-b), label='tan(a-b)')
+plt.plot((np.tan(a)-np.tan(b))/(1+(tan(a)*np.tan(b)))
+
+#plot 7
+plt.plot(np.sin(a)+np.sin(b), label='sin(a)+sin(b)')
+plt.plot(2*(np.sin((a+b)/2)*np.cos((a-b)/2)))
+
+#plot 8
+plt.plot(np.sin(a)-np.sin(b), label='sin(a)-sin(b)')
+plt.plot(2*(np.cos((a+b)/2)*np.sin((a-b)/2)))
+
+#plot 9
+plt.plot(np.cos(a)+np.cos(b), label='cos(a)+cos(b)')
+plt.plot(2*(np.cos((a+b)/2)*np.cos((a-b)/2)))
+
+#plot 10
+plt.plot(np.cos(a)-np.cos(b), label='cos(a)-cos(b)')
+plt.plot(2*(np.sin(a+b)/2)*np.sin((a-b)/2)))
+```
