@@ -2,6 +2,11 @@
 
 ### Symbolic computation with sympy
 
+```bash
+python3 -m pip install sympy
+```
+
+
 what is sympy?
 
 	sympy is a Computer Algebra System (CAS)
