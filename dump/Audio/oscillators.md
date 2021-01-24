@@ -97,3 +97,10 @@ int main(){
 ```C++
 
 ```
+
+### Noises
+	1. White Noise
+	2. Red Noise
+	3. Pink Noise
+
+### LFO
