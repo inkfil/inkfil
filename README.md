@@ -205,7 +205,18 @@ Email: ronaktheshinigami@gmail.com <br />
 	
 <summary>Specializations</summary>
 
-	
+| Course | Date | Certificate No |
+| ------ | ---- | -------------- |
+| C++ Best Practices for Developers | 07/2020 | A45A09B4005548278351DB3F9D4F315B |
+| C++ Design Patterns: Creational | 07/2020 | 5789933AF4BB41D78EF07618B9996A56 |
+| Introducing Functional Programming in C++ | 07/2020 | DE3EAF3449664287B6CF2972F60CD973 |
+| Learning C++ | 07/2020 | 6FA6D171658C4D168CF35277A401A3F4 |
+| Nail Your C++ Interview | 07/2020 | CB068AC5AFA045B2A62402A6A02F9A96 |
+| Web Servers and APIs using C++ | 07/2020 | 4F7B89730C084B5BBBB6853C86312939 |
+| Building a Personal Portfolio with Django | 07/2020 | 7D68004EB9C04B2EB7FF06C66F38F277 |
+| Deploying Django Apps: Make Your Site GoLive | 07/2020 | E5166ECCF88640B5B9466B199B99BD19 |
+| Learning Django | 07/2020 | 945035300853472DB7A3A573632A9012 |
+
 </details>
 
 <!--
