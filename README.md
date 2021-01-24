@@ -54,7 +54,7 @@ Twitter: https://twitter.com/ronakisdead <br />
 Instagram: www.instagram.com/ronaktheshinigami/ <br />
 Email: ronaktheshinigami@gmail.com <br />
 
-# Coursera Certification
+#### Coursera Certification
 
 <details>
 <summary>Specializations</summary>
@@ -199,7 +199,7 @@ Email: ronaktheshinigami@gmail.com <br />
 
 </details>
 
-# Lynda (Linkedin Learning) Certification
+#### Lynda (Linkedin Learning) Certification
 
 <details>
 	
