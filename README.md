@@ -197,9 +197,16 @@ Email: ronaktheshinigami@gmail.com <br />
 | Applied Text Mining in Python | University of Michigan | 95% |
 | Applied Plotting, Charting & Data Representation in Python | University of Michigan | 100% |
 
-
 </details>
 
+# Lynda (Linkedin Learning) Certification
+
+<details>
+	
+<summary>Specializations</summary>
+
+	
+</details>
 
 <!--
 ### Hi there 👋
