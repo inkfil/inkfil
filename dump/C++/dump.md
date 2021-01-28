@@ -13,7 +13,24 @@
 	Vim		: God of all Editor.
 
 ---
+## Tools to work with Binary Files (Exeulables):
+	
+###### know about assembly codes for target architecture, disassembly, system calls and function calls before using these tools
+	
+	hexer
+	xxd
+	hexdump
+	hd (BSDMainUtils)
+	objdump
+	od
+	strace
+	ltrace
+	gdb
+	file
+	binary ninja
+	radare2
 
+---
 ## C++ Libs/APIs
 ###### SH: Single Header Library.
 	
