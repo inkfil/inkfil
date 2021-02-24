@@ -16,11 +16,13 @@ Number system
 10. imaginary numbers
 
 11. complex numbers
-12. prime numbers
-13. composite numbers
-14. fibonacci numbers
-15. pisanos numbers
-16. lucas numbers
+12. odd numbers
+13. even numbers
+14. prime numbers
+15. composite numbers
+16. fibonacci numbers
+17. pisanos numbers
+18. lucas numbers
 
 
 fibonacci series
