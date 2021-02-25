@@ -26,7 +26,14 @@ Number system
 19. catalan numbers 
 20. quaternions
 
+
 fibonacci series
 pisanos series
 taylor series
 mclaurian series
+
+
+GCD
+LCD
+GCM
+LCM
