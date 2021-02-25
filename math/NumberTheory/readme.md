@@ -24,7 +24,7 @@ Number system
 17. pisanos numbers
 18. lucas numbers
 19. catalan numbers 
-
+20. quaternions
 
 fibonacci series
 pisanos series
