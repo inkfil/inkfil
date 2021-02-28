@@ -26,5 +26,6 @@ Special prime numbers?
 mersene prime numbers?
 twin primes?
 odd primes/even primes
+odd composite numbers/even composite numbers
 
 primes in cryptography?
