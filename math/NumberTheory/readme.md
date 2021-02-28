@@ -33,6 +33,13 @@ taylor series
 mclaurian series
 
 
+
+Factorization of numbers?
+Factorization of prime numbers?
+Factorization of Composite numbers?
+Factorization of Odd numbers?
+Factorization of Even numbers?
+
 GCD
 LCD
 GCM
