@@ -27,5 +27,11 @@ mersene prime numbers?
 twin primes?
 odd primes/even primes
 odd composite numbers/even composite numbers
+how odd composite numbers relate to elements of periodic table?
 
 primes in cryptography?
+
+
+
+
+Peter Plichta
