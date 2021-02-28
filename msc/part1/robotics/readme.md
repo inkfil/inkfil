@@ -2,14 +2,6 @@ M.Sc I Computer Science
 
 Robotics and AI Practicals
 
-Common steps for all practicals:
-
-STEPS:
-Create java project > then a class.
-Click on click on project click Library>Add jar files (the 3 files)
-After adding Library jar files you can right-click on source>add sprites folder
-Right Click on created java folder create New>Java class> and start your practicals.
-
 Practical No. 1
 
 Aim : Write a program to create a robot to move, forward, turn left and right without gears.
