@@ -16,6 +16,7 @@ Sieve of erathroses
 
 primality of a number
 test for primality
+primality of 1?
 
 prime numbers in complex plane
 
