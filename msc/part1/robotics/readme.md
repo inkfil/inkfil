@@ -3,7 +3,6 @@ Aim: Write a program to create a robot to move, forward, turn left and right wit
 Date: 
 
 Theory:
-
 i)  Move with Gear:  We can use gears in different combination to change the force & the torque output of the motor.
 The force generated at the edge of the gear is the ratio of the torque to the radius of the gear. By combining gears with different radii, we can manipulate the amount of the force and toque that gets generated.
 
@@ -57,7 +56,6 @@ Aim: Write a program to create a robot and add two motors to it, make it move fo
 Date: 
 
 Theory:
-
 Motors:
 Motors are the most common actuators in robotics. They are well suited for activating wheels, since they provide rotational movement, thereby enabling wheels to turn and wheels of course are very popular. Effectors (in robotics and on the ground in general). There are three types of motors.
 i) Direct Current Motors (DC)
@@ -129,7 +127,6 @@ Aim: Write a program to create a robot that moves in a square using a while loop
 Date: 
 
 Theory:
-
 i) Creating square using while loop:
 This program aims at moving robot in a square using while loop. Initially and object named robot is created for class NxtRobot and two motors motA and motB are created for class motor. The robot is then given those objects (motA and motB) using add part function. These objects are given forward function. While the condition is true for the robot, motA will stop first. It will take delay of 1045 unit time and then motB moves forward. Then motA moves forward and this delay is for 1045-unit time. Then again motB moves forward followed by motA with delay of 1045 unit time. Then finally motB moves forward and completes square.
 
@@ -216,7 +213,6 @@ Aim: Write  a program to create a robot with light sensors to follow a line. In 
 Date: 
 
 Theory:
-
 Light sensors measure the amount of light impacting a photo-light sensor, but they can detect a wide range of wavelengths, much broader than the human eye can see. They can be cleverly positioned, oriented and shielded in order to improve their accuracy and range properties. They can be used as passive or active sensors in a variety of ways and they can measure the following properties:
 -	Light intensity: how light/ dark it is
 -	Differential intensity: difference between photocells
@@ -296,7 +292,6 @@ Aim: Write  a program to create a robot that does a circle using 2 motors.</br>
 Date: 
 
 Theory:
-
 This program aims at moving a robot in circle using two motors. Initially an object robot is created for class NxtRobot in public method circles(). An object ‘gear’ is created for class gear after robot. This gear is then attached to the robot using addPar() method. A certain speed is set for the gear. Using leftArc() method. A certain radius and time duration is given for the movement of the gear. This motion is given time duration using delay() method and the using exit() method, the circle is then completed.
 This method is called in the main method using ‘new circlem()’. Hence we complete a circle using two motors.
 
@@ -351,7 +346,6 @@ Aim: Write a program to create a robot with two light sensors to follow a line. 
 Date: 
 
 Theory:
-
 This program aims at creating a path following robot. An object ‘robot’ is created for class NxtRobot inside public method Pathfinder (). Create an object ‘gear’ for class gear. Create objects ls1 and ls2 for class lightSensor. Since we need two light sensors for robot (left and right) we create two objects. Attach gear and two light sensors to robot. While the condition is true, store the value of right light sensor in right value and value of left light sensor in left value. Let d, be the difference between right value and left value. If the value of d is less than -100, the gear takes left arc with radius 0.1 units. If the value of d is greater than -100 && less than 100 && right value is greater than 500, the gear moves forward. This is how we define conditions in Pathfinder () method.
 In main method we call Pathfinder() method using ‘new Pathfinder();’ since we need to define some conditions like starting position and direction of the motion of the robot (which is the same for all conditions), we define it in static method. Hence we create a path following robot.
 
