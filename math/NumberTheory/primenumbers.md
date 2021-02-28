@@ -6,10 +6,10 @@ there are infinitely many prime numbers
 
 prime number theorem
 
-Euclid's relation with prime numbers
+Euclid's relation with prime numbers (Euclid's Theorem)
 Euler's relation with prime numbers
 Gauss's relation with prime numbers
-Riemann's relation with prime numbers
+Riemann's relation with prime numbers (Riemann Zeta Function)
 Ramanujan/G.H. Hardy's relation with prime numbers
 
 Distribution of prime numbers
@@ -40,7 +40,7 @@ primes in cryptography?
 
 
 sequences in prime numbers.
-Riemann Zeta Function
+
 
 
 Peter Plichta
