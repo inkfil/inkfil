@@ -34,6 +34,7 @@ mersene prime numbers?
 twin primes/sister primes
 odd primes/even primes
 squaring primes
+highly composite primes.
 odd composite numbers/even composite numbers
 how odd composite numbers relate to elements of periodic table?
 
