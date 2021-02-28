@@ -1,5 +1,9 @@
 there are infinitely many prime numbers
 
+```
+"It is evident that primes are randomly distributed but, unfortunately we don't know what 'random' means." - R. C. Vaughan
+```
+
 prime number theorem
 
 Euclid's relation with prime numbers
