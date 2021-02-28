@@ -4,8 +4,8 @@ Date:
 
 Source Code:
 ```java
-// filename (case sensitive): Prac_1.java
-// to run (using cli): java -cp "..\ch\RobotSim.jar;..\ch\aplu5.jar;..\ch\JGameGrid.jar" Prac_1.java
+// filename (case sensitive): Prac_4.java
+// to run (using cli): java -cp "..\ch\RobotSim.jar;..\ch\aplu5.jar;..\ch\JGameGrid.jar" Prac_4.java
 import ch.aplu.robotsim.Gear;
 import ch.aplu.robotsim.Motor;
 import ch.aplu.robotsim.MotorPort;
