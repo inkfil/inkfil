@@ -25,3 +25,6 @@ Riemann's hypothesis and its relationship with distribution of prime numbers?
 Special prime numbers?
 mersene prime numbers?
 twin primes?
+odd primes/even primes
+
+primes in cryptography?
