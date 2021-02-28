@@ -4,7 +4,8 @@ there are infinitely many prime numbers
 "It is evident that primes are randomly distributed but, unfortunately we don't know what 'random' means." - R. C. Vaughan
 ```
 
-prime number theorem
+prime number theorem (PNT)
+The Fundametal Theorem of Arithmetic.
 
 Euclid's relation with prime numbers (Euclid's Theorem)
 Euler's relation with prime numbers
