@@ -6,6 +6,7 @@ Euclid's relation with prime numbers
 Euler's relation with prime numbers
 Gauss's relation with prime numbers
 Riemann's relation with prime numbers
+Ramanujan/G.H. Hardy's relation with prime numbers
 
 Distribution of prime numbers
 distribution of composite numbers
@@ -33,6 +34,8 @@ how odd composite numbers relate to elements of periodic table?
 
 primes in cryptography?
 
+
+sequences in prime numbers.
 
 
 
