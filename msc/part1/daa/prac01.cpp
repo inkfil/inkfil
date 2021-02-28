@@ -1,2 +1,3 @@
-// Prac 1
+// Prac 01
+// Aim:
 #include<iostream>
