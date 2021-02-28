@@ -1,3 +1,3 @@
-// Prac 4
+// Prac 04
 // Aim:
 #include<iostream>
