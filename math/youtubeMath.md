@@ -16,6 +16,8 @@
 - [Gresham College](https://www.youtube.com/user/GreshamCollege)
 - [TheMathCoach](https://www.youtube.com/channel/UC4NesUJcZWZM8j9S-rmdkQQ)
 - [Quanta Magazine](https://www.youtube.com/c/QuantamagazineOrgNews)
+- [The Math Guy](https://www.youtube.com/channel/UCFlrdgYzH_XALdAKtXKMQbQ)
+- [MathTheBeautiful](https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ)
 
 
 
