@@ -45,7 +45,7 @@ Projects:
 
 </details>
 
-Declaration: I hereby declare that all the above facts are true to best of my knowledge.
+<!--Declaration: I hereby declare that all the above facts are true to best of my knowledge.-->
 
 Jain Ronak Suresh
 
