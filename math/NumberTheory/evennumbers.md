@@ -19,16 +19,38 @@ odd * odd =
 odd * even = 
 even * even = 
 ```
-
-Sum of n consecutive even numbers:
-```
-
-```
-Product of n consecutive even numbers:
+### Powers of even numbers:
+###### even powers of even numbers:
 ```
 
 ```
 
+###### odd powers of even numbers:
+```
+
+```
+
+### Sum of even numbers:
+###### Sum of n consecutive even numbers:
+```
+
+```
+
+###### Sum of squares of n consecutive even numbers:
+```
+
+```
+
+### Products of even numbers:
+###### Product of n consecutive even numbers:
+```
+
+```
+
+###### Product of squares of n consecutive even numbers:
+```
+
+```
 
 
 can a negetive integer number be even number?
