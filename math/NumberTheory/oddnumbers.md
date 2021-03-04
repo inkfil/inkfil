@@ -1,11 +1,11 @@
-# Even Numbers.
+# Odd Numbers.
 ```
 2n+1
 ```
 Defination: 
 ```Integer numbers that are not divisible by 2 are Odd Numbers.```
 
-Operation of even numbers:
+Operation of odd numbers:
 ```
 odd + odd = 
 odd + even = 
