@@ -1,4 +1,8 @@
-# Calculus
+# Calculus.
 
-### integral calculus
-### differential calculus
+### Limits.
+### Integral Calculus.
+### Differential Calculus.
+
+
+```Gottfried Wilhelm Leibniz: father of calculus.```
