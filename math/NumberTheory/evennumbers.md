@@ -1,9 +1,9 @@
 # Even Numbers.
 ```
-2n+1
+2n
 ```
 Defination: 
-```Numbers that are not divisible by 2 are Even Numbers.```
+```Integer numbers that are divisible by 2 are Even Numbers.```
 
 Operation of even numbers:
 ```
@@ -22,4 +22,12 @@ Sum of n consecutive even numbers:
 
 ```
 Product of n consecutive even numbers:
+```
 
+```
+
+
+
+can a negetive integer number be even number?
+can a rational number be even number?
+can a complex number be even number?
