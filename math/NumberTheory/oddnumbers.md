@@ -20,10 +20,21 @@ odd * even =
 even * even = 
 ```
 
+odd powers of odd numbers:
+```
+
+```
+
+even powers of odd numbers:
+```
+
+```
+
 Sum of n consecutive odd numbers:
 ```
 
 ```
+
 Product of n consecutive odd numbers:
 ```
 
