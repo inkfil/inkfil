@@ -1,4 +1,4 @@
-### Modular Arithmetic
+# Modular Arithmetic
 
 divisor
 divident
