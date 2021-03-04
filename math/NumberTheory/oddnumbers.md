@@ -20,26 +20,37 @@ odd * even =
 even * even = 
 ```
 
-odd powers of odd numbers:
+### Powers of odd numbers:
+###### odd powers of odd numbers:
 ```
 
 ```
 
-even powers of odd numbers:
+###### even powers of odd numbers:
+```
+
+```
+### Sum of odd numbers:
+###### Sum of n consecutive odd numbers:
 ```
 
 ```
 
-Sum of n consecutive odd numbers:
+###### Sum of squares of n consecutive odd numbers:
 ```
 
 ```
 
-Product of n consecutive odd numbers:
+### Product of odd numbers:
+###### Product of n consecutive odd numbers:
 ```
 
 ```
 
+###### Product of squares of n consecutive odd numbers:
+```
+
+```
 
 can a negetive integer be odd number?
 can a rational number be odd number?
