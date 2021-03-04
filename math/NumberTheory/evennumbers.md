@@ -7,14 +7,17 @@ Defination:
 
 Operation of even numbers:
 ```
+odd + odd = 
+odd + even = 
 even + even = 
-even + odd = 
 
+odd - odd = 
+odd - even = 
 even - even = 
-even - odd = 
 
+odd * odd = 
+odd * even = 
 even * even = 
-even * odd = 
 ```
 
 Sum of n consecutive even numbers:
