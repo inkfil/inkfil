@@ -3,18 +3,13 @@ Number system
 1. natural numbers
 2. positive natural numbers
 3. negetive natural numbers
-
 4. real numbers
 5. positive real numbers
 6. negetive real numbers
-
 7. irrational numbers
 8. rational numbers
-
 9. transcendental numbers
-
 10. imaginary numbers
-
 11. complex numbers
 12. odd numbers
 13. even numbers
@@ -25,7 +20,14 @@ Number system
 18. lucas numbers
 19. catalan numbers 
 20. quaternions
-
+21. squares
+22. cubes
+23. perfect squares
+24. perfect cubes
+25. perfect numbers
+26. semi perfect squares
+27. semi perfect cubes
+28. semi perfect numbers
 
 fibonacci series
 pisanos series
