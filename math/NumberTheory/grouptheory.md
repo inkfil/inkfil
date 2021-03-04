@@ -1,4 +1,4 @@
-### Group Theory
+# Group Theory
 
 Defination of Group Theory:
 Defination of Ring Theory:
