@@ -17,9 +17,10 @@ Career Objectives:
 
 Skills:
 
-	Programming language Known: C++, C, Python.
+	Programming language Known: C++, C, Python, Java.
 	Basic Data Analysis: numpy, pandas, matplotlib, seaborn, Scikit.
 	Database: DQL, DML.
+	Frameworks: Django, SFML.
 
 Projects:
 
@@ -40,7 +41,7 @@ Projects:
 | ------------- | ----------------- | ---------------- | --------------- | --------------- |
 | MSc (CS) | Thakur College of Science and Commerce | Mumbai University | NA | pursuing |
 | BSc (IT) | Thakur College of Science and Commerce | Mumbai University | 8.55/10.00 | 2019 |
-| HSC (12) | Thakur Vidya Mandir High School And Junior College | Maharashtra State Board Of Secondary And Higher Secondary Education | 62.77% | 2016
+| HSC (12) | Thakur Vidya Mandir High School And Junior College | Maharashtra State Board Of Secondary And Higher Secondary Education | 62.77% | 2016 |
 | SSC (10) | St. Mary's High School | Maharashtra State Board of Secondary and Higher Secondary Education | 72.60% | 2014 |
 
 </details>
@@ -57,7 +58,7 @@ Email: ronaktheshinigami@gmail.com <br />
 #### Coursera Certification
 
 <details>
-<summary>Specializations</summary>
+<summary>Specializations.</summary>
 
 - Python for Everybody (University of Michigan)
 	| Course | Date | Grade |
