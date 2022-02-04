@@ -24,6 +24,16 @@ Skills:
 
 Projects:
 
+	Project Name: Hyperparameter Optimization of a neural network using Genetic Algorithm
+	Role: Researcher and Developer
+	Team Size: 1
+	Project Duration: 7 Months
+	Project Detail: Final Year MSC Research based project.
+	Description: Finding ways of faster convergence of neural networks using biologically
+			inspired genetic algorithms for efficiency in model accuracy and improved
+			training time.
+
+
 	Project Name: Automated attendance Tracking And Proxy Detection System
 	Role: Developer And System Designer 
 	Team Size: 3
@@ -33,6 +43,17 @@ Projects:
 			with an anti-scam mechanism using OpenCV as image processing tool and 
 			Android as a platform to access students records along with Drupal 
 			framework to manage web content
+
+	Project Name: OCR using PyTesseract and summarization of content using NLTK
+	Role: Developer
+	Team Size: 1
+	Project Duration: 2 Months
+	Project Detail: Personal project based on Django, NLTK, Pytesseract.
+	Description: A Django based web application that takes files in Image, PDF and text
+			formats from users and extracts the textual content of these files using
+			OCR (Optical Character Recognition), summarizes the content of files using
+			NLTK library using Page Rank algorithm and Natural Language Processing
+
 
 <details>
 <summary>Education:</summary>
