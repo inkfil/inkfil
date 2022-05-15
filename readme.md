@@ -13,7 +13,7 @@
 Mail: ronaktheshinigami@gmail.com
 
 Career Objectives:
-	To be an Applied Machine Learning Engineer and to gain knowledge of mathamathical logic behind ML Algorithms.
+	To be an Computational Researcher and to gain knowledge of mathamathical logic behind Computational Algorithms.
 
 Skills:
 
@@ -21,6 +21,7 @@ Skills:
 	Basic Data Analysis: numpy, pandas, matplotlib, seaborn, Scikit.
 	Database: DQL, DML.
 	Frameworks: Django, SFML.
+	Libraries: STL, Boost, Armadillo, OpenCV.
 
 Projects:
 
@@ -60,8 +61,8 @@ Projects:
 
 | Degree/Course | Institute/College | University/Board | Percentage/CGPA | Year of Passing |
 | ------------- | ----------------- | ---------------- | --------------- | --------------- |
-| MSc (CS) | Thakur College of Science and Commerce | Mumbai University | NA | pursuing |
-| BSc (IT) | Thakur College of Science and Commerce | Mumbai University | 8.55/10.00 | 2019 |
+| MSc (CS) | Thakur College of Science and Commerce | Mumbai University | 10.0/10.0 | 2022 |
+| BSc (IT) | Thakur College of Science and Commerce | Mumbai University | 8.55/10.0 | 2019 |
 | HSC (12) | Thakur Vidya Mandir High School And Junior College | Maharashtra State Board Of Secondary And Higher Secondary Education | 62.77% | 2016 |
 | SSC (10) | St. Mary's High School | Maharashtra State Board of Secondary and Higher Secondary Education | 72.60% | 2014 |
 
@@ -70,11 +71,6 @@ Projects:
 <!--Declaration: I hereby declare that all the above facts are true to best of my knowledge.-->
 
 Jain Ronak Suresh
-
-LinkedIn: www.linkedin.com/in/ronaktheshinigami <br />
-Twitter: https://twitter.com/ronakisdead <br />
-Instagram: www.instagram.com/ronaktheshinigami/ <br />
-Email: ronaktheshinigami@gmail.com <br />
 
 #### Coursera Certification
 
@@ -240,6 +236,12 @@ Email: ronaktheshinigami@gmail.com <br />
 | Learning Django | 07/2020 | 945035300853472DB7A3A573632A9012 |
 
 </details>
+
+
+LinkedIn: www.linkedin.com/in/ronaktheshinigami <br />
+Twitter: https://twitter.com/ronakisdead <br />
+Instagram: www.instagram.com/ronaktheshinigami/ <br />
+Email: ronaktheshinigami@gmail.com <br />
 
 <!--
 ### Hi there 👋
